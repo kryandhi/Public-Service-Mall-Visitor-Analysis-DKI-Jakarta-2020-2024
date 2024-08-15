@@ -21,5 +21,3 @@ This project provides a comprehensive analysis of visitor data for the Public Se
 - Matplotlib/Seaborn: For data visualization.
 - Google Collab : For interactive data exploration.
 
-
-![WhatsApp Image 2024-08-07 at 13 33 16](https://github.com/user-attachments/assets/4aee0c9c-d0f8-4fb3-b758-d18552422332)
