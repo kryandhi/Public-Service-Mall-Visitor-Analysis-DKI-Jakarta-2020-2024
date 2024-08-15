@@ -1,4 +1,4 @@
-## Public Service Mall Visitor Analysis (January 2020 - June 2024)
+![WhatsApp Image 2024-08-07 at 13 33 16](https://github.com/user-attachments/assets/4e9e22cc-01cc-440a-9025-b4f4682d52b0)## Public Service Mall Visitor Analysis (January 2020 - June 2024)
 # Overview
 This project provides a comprehensive analysis of visitor data for the Public Service Mall (MPP) from January 2020 to June 2024. Utilizing Python for data processing and analysis, the project aims to uncover trends, patterns, and insights that can help improve service delivery and management at the Public Service Mall.
 
@@ -19,3 +19,6 @@ This project provides a comprehensive analysis of visitor data for the Public Se
 - Pandas: For data manipulation and analysis.
 - Matplotlib/Seaborn: For data visualization.
 - Google Collab : For interactive data exploration.
+
+
+![WhatsApp Image 2024-08-07 at 13 33 16](https://github.com/user-attachments/assets/4aee0c9c-d0f8-4fb3-b758-d18552422332)
